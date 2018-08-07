@@ -1,2 +1,2 @@
-# hierarchal-db-storage
-Dee's Law For Hierarchal Database Storage
+# hierarchical-db-storage
+Dee's Law For Hierarchical Database Storage
